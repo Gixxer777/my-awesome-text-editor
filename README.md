@@ -19,3 +19,6 @@ If you have any questions about this project, please contact me directly at dgas
 
 ## License
 This project is licensed under the MIT license.
+
+[Untitled_ Aug 3, 2023 11_16 AM.webm](https://github.com/Gixxer777/my-awesome-text-editor/assets/127446403/cd55dada-e131-4b5a-bba3-18d06cbafdcc)
+
